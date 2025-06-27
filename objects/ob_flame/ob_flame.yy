@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"ob_game",
+  "%Name":"ob_flame",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"ob_game",
+  "name":"ob_flame",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sp_flame",
+    "path":"sprites/sp_flame/sp_flame.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
