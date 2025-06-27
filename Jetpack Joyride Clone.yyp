@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"coins","folderPath":"folders/Objects/coins.yy","name":"coins","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Particle Systems","folderPath":"folders/Particle Systems.yy","name":"Particle Systems","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Paths","folderPath":"folders/Paths.yy","name":"Paths","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -37,6 +38,10 @@
   "resources":[
     {"id":{"name":"fn_game","path":"fonts/fn_game/fn_game.yy",},},
     {"id":{"name":"ob_bunny","path":"objects/ob_bunny/ob_bunny.yy",},},
+    {"id":{"name":"ob_coin_bronze","path":"objects/ob_coin_bronze/ob_coin_bronze.yy",},},
+    {"id":{"name":"ob_coin_gold","path":"objects/ob_coin_gold/ob_coin_gold.yy",},},
+    {"id":{"name":"ob_coin_parent","path":"objects/ob_coin_parent/ob_coin_parent.yy",},},
+    {"id":{"name":"ob_coin_silver","path":"objects/ob_coin_silver/ob_coin_silver.yy",},},
     {"id":{"name":"ob_flame","path":"objects/ob_flame/ob_flame.yy",},},
     {"id":{"name":"ob_game","path":"objects/ob_game/ob_game.yy",},},
     {"id":{"name":"ob_jetpack","path":"objects/ob_jetpack/ob_jetpack.yy",},},
