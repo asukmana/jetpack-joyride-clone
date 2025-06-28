@@ -60,7 +60,7 @@
     },
     "name":"sp_bunny",
     "playback":1,
-    "playbackSpeed":5.0,
+    "playbackSpeed":5.5,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
