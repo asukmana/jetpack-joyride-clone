@@ -8,7 +8,7 @@ if global.high_score == 0
 }
 
 //change to 60 when ready
-time_limit = 10;
+time_limit = 100;
 
 ground_height = sprite_get_height(sp_ground_stone) * 0.5;
 //var _ground_width = sprite_get_width(sp_ground_grass_small) * 0.5;
