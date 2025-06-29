@@ -52,6 +52,7 @@
     {"id":{"name":"ob_ground_wood","path":"objects/ob_ground_wood/ob_ground_wood.yy",},},
     {"id":{"name":"ob_ground","path":"objects/ob_ground/ob_ground.yy",},},
     {"id":{"name":"ob_jetpack","path":"objects/ob_jetpack/ob_jetpack.yy",},},
+    {"id":{"name":"ob_life","path":"objects/ob_life/ob_life.yy",},},
     {"id":{"name":"ob_menu","path":"objects/ob_menu/ob_menu.yy",},},
     {"id":{"name":"ob_play","path":"objects/ob_play/ob_play.yy",},},
     {"id":{"name":"ob_spike","path":"objects/ob_spike/ob_spike.yy",},},
