@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"ob_ground_stone",
-  "eventList":[],
+  "%Name":"ob_menu",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"ob_ground_stone",
+  "name":"ob_menu",
   "overriddenProperties":[],
   "parent":{
-    "name":"grounds",
-    "path":"folders/Objects/grounds.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"ob_ground",
-    "path":"objects/ob_ground/ob_ground.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sp_ground_stone",
-    "path":"sprites/sp_ground_stone/sp_ground_stone.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

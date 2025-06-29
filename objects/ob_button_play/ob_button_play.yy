@@ -1,17 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"ob_ground_stone",
-  "eventList":[],
+  "%Name":"ob_button_play",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"ob_ground_stone",
+  "name":"ob_button_play",
   "overriddenProperties":[],
   "parent":{
-    "name":"grounds",
-    "path":"folders/Objects/grounds.yy",
+    "name":"buttons",
+    "path":"folders/Objects/buttons.yy",
   },
   "parentObjectId":{
-    "name":"ob_ground",
-    "path":"objects/ob_ground/ob_ground.yy",
+    "name":"ob_button",
+    "path":"objects/ob_button/ob_button.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +34,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sp_ground_stone",
-    "path":"sprites/sp_ground_stone/sp_ground_stone.yy",
+    "name":"sp_button",
+    "path":"sprites/sp_button/sp_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

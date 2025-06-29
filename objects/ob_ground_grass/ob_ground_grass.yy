@@ -6,8 +6,8 @@
   "name":"ob_ground_grass",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"grounds",
+    "path":"folders/Objects/grounds.yy",
   },
   "parentObjectId":{
     "name":"ob_ground",

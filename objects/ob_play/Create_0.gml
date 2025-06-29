@@ -1,7 +1,14 @@
 //@description Initialization
 
 current_score = 0;
-high_score = 0;
+
+if global.high_score == 0
+{
+	sc_load_game();
+}
+
+//change to 60 when ready
+time_limit = 10;
 
 ground_height = sprite_get_height(sp_ground_stone) * 0.5;
 //var _ground_width = sprite_get_width(sp_ground_grass_small) * 0.5;
@@ -24,3 +31,5 @@ instance_create_layer(room_width, 705, "Instances", ob_ground_stone);
 alarm[2] = 0.1 * game_get_speed(gamespeed_fps);
 
 alarm[3] = 2 * game_get_speed(gamespeed_fps);
+
+alarm[4] = game_get_speed(gamespeed_fps);
