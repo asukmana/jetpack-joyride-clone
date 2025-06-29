@@ -1,7 +1,5 @@
 ///@description Create flying ground
 
-//instance_create_layer(room_width, random_range(200, 600), "Instances", ob_ground);
-
 randomize();
 var _ob_ground = choose(ob_ground_grass, ob_ground_wood);
 

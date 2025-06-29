@@ -5,8 +5,6 @@ if global.player_live == 0
 		global.high_score = current_score;
 		sc_save_game();
 	}
-	//alarm[5] = 1 * game_get_speed(gamespeed_fps);
-	//alarm[5] = 60;
 	instance_destroy(ob_coin);
 	instance_destroy(ob_spike);
 	instance_destroy(ob_ground_grass);
