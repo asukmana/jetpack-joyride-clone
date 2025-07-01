@@ -1,4 +1,4 @@
-# Pong clone
+# Jetpack Joyride clone
 
 This is a clone of Jetpack Joyride made in Gamemaker.
 
